@@ -1,0 +1,9 @@
+alias odoo_proc='ps ax | grep odoo'
+alias ping='prettyping --nolegend'
+alias sqlplus='rlwrap sqlplus'
+alias sagu='sudo apt-get update && sudo apt-get upgrade'
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias cleanuppyc="find . -type f -name '*.pyc' -ls -delete"
+alias rmspotifycache="sudo rm -rf ~/.cache/spotify"
